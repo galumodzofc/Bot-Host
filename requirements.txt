@@ -1,3 +1,1 @@
-# Main.py runtime dependency
-# aiogram 3.27+ is required for InlineKeyboardButton.style support.
 aiogram>=3.27.0,<4
